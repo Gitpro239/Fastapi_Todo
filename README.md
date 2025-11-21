@@ -8,4 +8,9 @@ python -m uvicorn main:app --reload
 
 python -m pytest -v -s
 
+# Github 
+git add .
 
+git commit -m "adding commit"
+
+git push origin main
